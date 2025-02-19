@@ -70,4 +70,4 @@ spring.application.name: mq-manager
 For support and issues, please contact through GitHub issues.
 ```
 
-Container dokümanını da hazırlayayım mı?
+
